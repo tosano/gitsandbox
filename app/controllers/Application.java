@@ -11,7 +11,7 @@ public class Application extends Controller {
 
     public static void index() {
         //render();
-        renderText("OK. running!");
+        renderText("OK. running! 2");
     }
 
 }
